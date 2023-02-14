@@ -1,0 +1,90 @@
+#shop{
+    width: 1023px;   
+}
+
+#productList{
+padding-top: 100px;
+}
+#productList ul{
+    width: 1023px;
+    display: flex;
+}
+#productList ul li{
+    margin: 0 2.5px;
+    text-align: center;
+}
+#productList ul li>a>.circle{
+    box-sizing: border-box;
+    display: block;
+    padding: 5px;
+    border-radius: 50%;
+    overflow: hidden;      
+    margin-bottom: 15px;
+}
+#productList ul li>a>.circle:hover{
+    border: 1px solid rgba(0,0,0,0);
+    transition: .6s ease;
+
+}
+
+#productList ul li a{  
+    display: block;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgb(0, 0, 0);}
+
+#nav2{
+    width: 983px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin-top: 50px;
+    border-bottom: 2px solid black;
+}
+#nav2>#best20{
+    font-size: 18px;
+    font-weight: bold;
+}
+#nav2>#simple>a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.534);
+}
+
+#products{
+  padding-top: 50px;
+    width: 1023px;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
+#product{
+    position: relative;
+}
+#products>figure{
+    width: 500px;
+}
+#products>figure>a>img{
+    width: 100%;
+}
+#products>figure>figcaption>a{
+    color: rgba(0.0.0.0);
+    text-decoration: none;
+}
+#productDetail{
+    font-size: 12px;
+    line-height: 30px;
+}
+#productName{
+    line-height: 30px;
+    font-weight: bold;
+}
+#productPrice{
+    font-size: 16px;
+    line-height: 30px;
+}
+#productContents{
+    position: absolute;
+    right: 15px; bottom: 10px;
+}
+

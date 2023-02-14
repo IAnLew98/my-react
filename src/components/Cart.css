@@ -1,0 +1,115 @@
+#cart{
+  width: 1023px;
+  height: auto;
+}
+#cartwrap{
+    padding: 100px 0 0 20px;
+    
+}
+h3{
+    font-size:30px;
+    margin-bottom:20px;
+    color:black;
+  }
+  #navbar>nav>ul>li{
+    position: relative;
+  }
+  #navbar>nav>ul>li>a>span{
+    font-size: 16px;
+    position: absolute;
+    top: -8px; right: -8px;
+  }
+  .boxCart{
+    padding-top: 20px;
+    width:1023px;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+  }
+  .boxCart > figure{
+    width:900px;
+    margin: 0 0 1em;
+    padding:10px;
+    border-bottom:3px solid #ddd;
+    box-sizing: border-box;
+    position: relative;
+ 
+  }
+  .boxCart > figure > img{
+       float: left;
+    width:90px;
+    margin-right: 30px;
+  }
+  .boxCart > figure > figcaption{}
+  .boxCart > figure > figcaption >dl{}
+  .boxCart > figure > figcaption >dl>dt{
+    margin-bottom: 8px;
+    font-weight: bold;
+    font-size: 13px;}
+  .boxCart > figure > figcaption >dl>dd{
+    font-size: 11px;
+    margin-bottom: 8px;
+  }
+  .boxCart > figure > figcaption >dl>#cartContents{
+    margin-top: 24px;
+  }
+  .boxCart > figure > figcaption >dl>#removeCart{
+    position: absolute;
+    bottom: 0px; right: 20px;
+  }
+  .boxCart > figure > figcaption >dl>#cartProduct{
+    font-size: 20px;
+    position: absolute;
+    top: 0px; right: 20px;
+  }
+  #footwrap1{
+    width: 1023px;
+    height: 300px;
+  }
+  #gotoshop{
+    margin: 0 auto;
+    width: 600px;
+
+  }
+  #gotoshop>button{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+  }
+#gotoshop>button>a{
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    
+}
+#clearcart{
+  margin: 0 auto;
+    width: 200px;
+    
+}
+  #clearcart>button{
+    width: 100%;
+    height: 40px;
+    background-color: #ffffff;
+  }
+   #clearALlItems{
+    margin-top:50px ;
+    padding: 30px;
+    clear: both;
+    width:1023px;
+    text-align:center;
+    font-size:24px;
+  }
+  #clearALlItems>p{
+    margin-bottom:30px;
+  }
+  #clearALlItems>#ment{
+    margin: -250px auto 0;
+  }
+  #clearALlItems>div{
+    width:80%;
+    padding:20px;
+    box-sizing: border-box;
+   }
+  

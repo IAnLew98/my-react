@@ -1,0 +1,50 @@
+#qrWrap{
+    width: 400px;
+    height: 700px;
+    position: fixed;
+    top: 10%;
+    right: 15%;
+    background-color: rgba(49, 146, 30, 0.616);
+}
+
+#qrAside>figure>figcaption>dl{
+    text-align: center;
+    padding-top: 40px;
+    color: #fff;
+    
+}
+#pouchdt{
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+#pouchdd1{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    margin-bottom: 20px;
+}
+#pouchdd2{
+    font-weight: 300;
+    line-height: 20px;
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.644);
+    margin-bottom: 25px;
+}
+
+#button1>a>button{
+    width: 50%;
+    height: 35px;
+    margin-bottom: 10px;
+    background-color: rgba(255, 255, 255, 0.562);
+    color: #fff;
+    border: none;
+}
+#button2>a>button{
+    border: none;
+    width: 50%;
+    height: 35px;
+    background-color: #fff;
+
+
+}

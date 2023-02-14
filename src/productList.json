@@ -1,0 +1,165 @@
+{
+  "products": [
+    {   
+      "id": "1",
+      "name": "퍼퓸 밤 카모",
+      "detail": "진득한 카모마일 | 부드러운 나무결 | 머스크",
+      "contents":"6.5g",
+      "price": 46500,
+      "imageUrl": "./images/PLP_balm_6g_chamo.jpg"
+    },
+    {
+      "id": "2",
+      "name": "퍼퓸드 핸드앤바디 워시 000",
+      "detail": "샌달우드 | 패츌리 | 흙 내음",
+      "contents":"250ml",
+      "price": 32000,
+      "imageUrl": "./images/PLP_hand&body_250ml_000.jpg"
+    },
+    {
+      "id": "3",
+      "name": "퍼퓸 카모",
+      "detail": "진득한 카모마일 | 부드러운 나무결 | 머스크",
+      "contents":"50ml",
+      "price": 139000,
+      "imageUrl": "./images/PLP_perfume_chamo_50ml.jpg"
+    },
+    {
+      "id": "4",
+      "name": "퍼퓸 쉘 엑스 카모",
+      "detail": "진득한 카모마일 | 부드러운 나무결 | 머스크",
+      "contents":"30ml",
+      "price": 32000,
+      "imageUrl": "./images/PLP_shellX_30ml_chamo.jpg"
+    },
+    {
+      "id": "5",
+      "name": "바디듀오 BIGALICO",
+      "detail": "샤워리바디워스&로션",
+      "contents":"240ml+235ml",
+      "price": 68000,
+      "imageUrl": "./images/PLP_shwry_duo_biga.jpg"
+    },
+    {
+      "id": "6",
+      "name": "000",
+      "detail": "샌달우드 | 패츌리 | 흙 내음",
+      "contents":"40ml",
+      "price": 32000,
+      "imageUrl": "./images/PLP_shell_000_40mL.jpg"
+    },
+    {
+      "id": "7",
+      "name": "퍼퓸핸드 미니 듀오 세트 베스트",
+      "detail": "퍼퓸핸드 베스트 향",
+      "contents":"15ml*2",
+      "price": 33500,
+      "imageUrl": "./images/PLP_shellminiduobest_fey9_vein_15mL.jpg"
+    },
+    {
+      "id": "8",
+      "name": "FEY9",
+      "detail": "무화과나무 | 엠브레트 씨앗 | 달콤 씁쓸한",
+      "contents":"65ml",
+      "price": 25000,
+      "imageUrl": "./images/PLP_tubehand_fey9_65ml.jpg"
+    },
+    {
+      "id": "9",
+      "name": "손 소독제 트리오(000+FEY9+7)",
+      "detail": "손 소독제 세 가지 향",
+      "contents":"30ml*3",
+      "price": 24500,
+      "imageUrl": "./images/PLP_sanitizerTrio_30ml_000_fey9_7.jpg"
+    },
+    {
+      "id": "10",
+      "name": "퍼퓸 헤이스텍스",
+      "detail": "건초더미 | 짙은 향의 럼 | 패츌리",
+      "contents":"50ml",
+      "price": 129000,
+      "imageUrl": "./images/PLP_perfume_haystacks_50ml.jpg"
+    },
+    {
+      "id": "11",
+      "name": "바디로션 BIGALICO",
+      "detail": "씁쓸한 오렌지 | 시더우드 | 달콤한 리코라이스",
+      "contents":"470ml",
+      "price": 59500,
+      "imageUrl": "./images/PLP_shwry_lotion_biga_470mL.jpg"
+    },
+    {
+      "id": "12",
+      "name": "퍼퓸 프렌치니들",
+      "detail": "우디 스파이시 | 피어나는 안개 | 진한 녹음",
+      "contents":"10ml",
+      "price": 36500,
+      "imageUrl": "./images/PLP_perfume_frenchneedle_10ml.jpg"
+    },
+    {
+      "id": "13",
+      "name": "바디워시 FOG",
+      "detail": "물안개 낀 숲 | 젖은 나무 | 캐시미어 우드",
+      "contents":"470ml",
+      "price": 52000,
+      "imageUrl": "./images/PLP_shwry_wash_fog_470mL.jpg"
+    },
+    {
+      "id": "14",
+      "name": "VEIN",
+      "detail": "월계수 잎 | 은방울꽃 | 정돈된 가죽",
+      "contents":"40ml",
+      "price": 32000,
+      "imageUrl": "./images/PLP_shell_vein_40mL.jpg"
+    },
+    {
+      "id": "15",
+      "name": "000",
+      "detail": "샌달우드 | 패츌리 | 흙 내음",
+      "contents":"30ml",
+      "price": 23000,
+      "imageUrl": "./images/PLP_chain_000_30mL.jpg"
+    },
+    {
+      "id": "16",
+      "name": "퍼퓸드 핸드앤바디 워시 7",
+      "detail": "로즈우드 | 코코넛 향 | 우아함",
+      "contents":"250ml",
+      "price": 32000,
+      "imageUrl": "./images/PLP_hand&body_250ml_7.jpg"
+    },
+    {
+      "id": "17",
+      "name": "VEIN",
+      "detail": "월계수 잎 | 은방울꽃 | 정돈된 가죽",
+      "contents":"15ml",
+      "price": 18000,
+      "imageUrl": "./images/PLP_shell_vein_15mL.jpg"
+    },
+    {
+      "id": "18",
+      "name": "MULBERRY LEAVES",
+      "detail": "회귀의 향 | 나무껍질의 눈물 | 내적 평온",
+      "contents":"65ml",
+      "price": 25000,
+      "imageUrl": "./images/PLP_tunehand_mulberry_65ml.jpg"
+    },
+    {
+      "id": "19",
+      "name": "퍼퓸 쉘 엑스 라레",
+      "detail": "이슬을 머금은 풋사과 | 화이트 튤림 | 샌달우드",
+      "contents":"30ml",
+      "price": 32000,
+      "imageUrl": "./images/PLP_chain_7_30mL.jpg"
+    },
+    {
+      "id": "20",
+      "name": "7",
+      "detail": "로즈우드 | 코코넛 향 | 우아함",
+      "contents":"30ml",
+      "price": 23000,
+      "imageUrl": "./images/PLP_shwry_lotion_biga_470mL.jpg"
+    }
+
+  ]
+}
